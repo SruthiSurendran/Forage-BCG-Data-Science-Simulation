@@ -1,0 +1,62 @@
+# 📧 Client Email: Request for Data and Approach to Investigate Customer Churn
+
+Dear [Client Name],
+
+Following our team discussion and your briefing, we understand that you believe **price sensitivity** may be a primary factor in customer churn, with customers possibly shifting to low-cost energy providers.
+
+To validate or challenge this hypothesis, we’d like to request access to specific data points that will help us assess the drivers of churn and identify whether price is indeed the dominant factor, or if other elements such as service, energy source, or incentives play a significant role.
+
+## 📊 Data Request
+
+We kindly request the following datasets:
+
+### 1. Customer Profile Data
+- Customer ID
+- Plan Type / Tariff Plan
+- Pricing details (historical and current)
+- Length of relationship (tenure)
+- Location (region/state/city)
+
+### 2. Customer Behavior & Churn Data
+- Monthly usage (kWh)
+- Billing history
+- Churn flag (yes/no)
+- Date of churn (if applicable)
+
+### 3. Competitor & Market Data (if available)
+- Competitor pricing
+- Market share trends
+- Industry benchmarks on service quality
+
+### 4. Customer Feedback (Optional)
+- Survey responses or customer reviews
+- Support tickets or complaints history
+
+---
+
+## 🔍 Our Analytical Approach
+
+Once the data is available, we will proceed through the following 5-step process:
+
+1. **Frame the Problem**  
+   Clarify the business objective: determine key drivers of churn, with focus on price sensitivity.
+
+2. **Data Cleaning & Preparation**  
+   Handle missing values, outliers, and ensure data consistency for analysis.
+
+3. **Exploratory Data Analysis (EDA)**  
+   Analyze trends, customer segments, churn patterns, and visualize correlations between churn and pricing.
+
+4. **Model Building**  
+   Build a classification model (e.g., logistic regression, decision tree) to predict churn likelihood and assess feature importance.
+
+5. **Insight Generation**  
+   Summarize insights and provide clear recommendations for mitigating churn and improving customer retention.
+
+---
+
+Please let us know if these data points are available or if you foresee any challenges in accessing them. We look forward to collaborating with you on this engagement.
+
+Best regards,  
+[Your Name]  
+Data Science Team, BCG Simulation

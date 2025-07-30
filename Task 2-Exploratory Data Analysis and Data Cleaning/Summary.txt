@@ -1,0 +1,20 @@
+The BCG project team believes that building a churn model to understand whether price sensitivity is the largest driver of customer churn has strong potential.
+
+The client has provided the following datasets:
+
+Historical customer data: Includes customer usage patterns, sign-up dates, and forecasted usage.
+
+Historical pricing data: Contains variable and fixed pricing information over time.
+
+Churn indicator: Flags whether a customer has churned or remained active.
+The ojective is to Perform exploratory data analysis (EDA) using Python to:
+
+Examine the data types of each column
+
+Understand data distributions and basic descriptive statistics
+
+Identify patterns, outliers, and trends that may relate to churn
+
+Define and calculate a price sensitivity metric
+
+Explore its potential correlation with customer churn

@@ -53,21 +53,3 @@ The BCG Forage simulation is designed to mimic the day-to-day responsibilities o
 
 ---
 
-## 📎 Links
-
-🔗 [Official Simulation](https://www.theforage.com/virtual-experience/Tcz8gTtprzAS4xSoK/bcg/data-science-ccdz)  
-📬 [Contact Me on LinkedIn](https://www.linkedin.com/in/sruthisurendran-k/)
-
----
-
-## 🏁 Outcome
-
-Through this project, I demonstrated my ability to:
-- Structure and solve ambiguous business problems using data
-- Clean, explore, and analyze datasets
-- Build and interpret models
-- Communicate insights in a clear and professional format
-
-
-
-    
